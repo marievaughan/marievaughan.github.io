@@ -2,8 +2,8 @@ body{
 	
 font-family: "Helvetica", "Arial", fantasy;
 	
-color: #AAFF00;
-	background-color: #E9967A;
+color: #2E86C1;
+	background-color: #FA8072;
 	
 text-shadow: 1px 1px #ff0000;
 	text-align: center;
@@ -14,16 +14,19 @@ text-shadow: 1px 1px #ff0000;
 
 h1 {
 	
+color: #2E86C1;
+	
 font-size: 1.3em;
 	
 text-align: center;
 	
 text-shadow: 1px 1px #ff0000;
-
 }
 
 
 td, th {
+	
+color: #2E86C1;
     
 border: 1px solid #dddddd;
     
@@ -37,6 +40,6 @@ padding: 8px;
 
 tr:nth-child(even) {
     
-background-color: #dddddd;
+background-color: #99A3A4;
 
 }
